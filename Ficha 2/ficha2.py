@@ -78,4 +78,4 @@ def alinea7 ():
     print(f"Valor do desconto: {valor_desconto:.2f}€")
     print(f"O montante a pagar é: {final:.2f}€")
 alinea7()
-if __main__=="__main__":
+if __name__=="__main__":
